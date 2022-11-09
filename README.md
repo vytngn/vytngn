@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vytngn
+- 👋 Hi, I’m Vy. 
 - 👀 I’m interested in front-end.
 - 🌱 I’m currently learning Java, HTML, and CSS. 
 <!---
