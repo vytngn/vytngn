@@ -1,15 +1,18 @@
 
 # Hello, World! 👋
-I'm Vy, a student at Rutgers majoring in IT and minoring in CS. Welcome to my Github page!
+I'm Vy, a student at Rutgers majoring in IT and minoring in CS. Welcome to my GitHub page!
 
 ### About Me
-I have a passion for both front-end and back-end development, but I lean more towards front-end due to the visual aspect. I am constantly learning and challenging myself to improve my skills and stay up-to-date with the latest technologies.
+(2020 - 2022): Associate's degree in Computer Science at Middlesex College.
+(Present): Bachelor's degree in Information Technology and Informatics (ITI) with a minor in Computer Science at Rutgers University. 
+(Future): My passion for tech and my aspiration to pursue a career in Quality Assurance (QA) or Software Engineering (SWE), particularly focusing on web development within the tech sector.
 
 ### Skills
 - HTML/CSS
 - JavaScript
 - SQL
 - Java
+- Python
 - Git
 ### Contact Me
 I am always looking for new opportunities to collaborate and learn from others. If you have any questions or just want to say hello, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tvy-nguyen/).
