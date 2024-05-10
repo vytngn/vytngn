@@ -3,9 +3,14 @@
 I'm Vy, a student at Rutgers majoring in IT and minoring in CS. Welcome to my GitHub page!
 
 ### About Me
-(2020 - 2022): Associate's degree in Computer Science at Middlesex College.
-(Present): Bachelor's degree in Information Technology and Informatics (ITI) with a minor in Computer Science at Rutgers University. 
-(Future): My passion for tech and my aspiration to pursue a career in Quality Assurance (QA) or Software Engineering (SWE), particularly focusing on web development within the tech sector.
+- (2020 - 2022): Associate's degree in Computer Science at Middlesex College.
+- (Present): Bachelor's degree in Information Technology and Informatics (ITI) with a minor in Computer Science at Rutgers University.
+- (Future): My passion for tech and my aspiration to pursue a career in Quality Assurance (QA) or Software Engineering (SWE), particularly focusing on web development within the tech sector.
+
+### My Recent Role
+Technical Beta Tester ([CompSciLib](https://www.compscilib.com/))
+-   Collaborated with the development team to enhance an ed-tech platform, streamlining computer science education for the next generation.
+-   Improve user experience for thousands of learners by identifying and resolving bugs, implementing new features, and testing cutting-edge AI study tools.
 
 ### Skills
 - HTML/CSS
